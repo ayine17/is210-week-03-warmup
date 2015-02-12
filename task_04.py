@@ -6,3 +6,7 @@ import task_03
 
 
 KLAXON = task_03.KLAXON
+
+""" use the string repetition operator to repeat KLAXON five times """
+
+KLAXON = KLAXON * 5

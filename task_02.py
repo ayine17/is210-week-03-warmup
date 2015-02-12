@@ -5,7 +5,4 @@
 Create a mathematical statement in a single-line
 """
 
-WEEK=(19%10+100+2**8) /7
-
-
-print(WEEK)
+WEEK = (19 % 10 + 100 + 2 ** 8) / 7
