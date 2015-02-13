@@ -2,4 +2,9 @@
 # -*- coding: utf-8 -*-
 """Task 11"""
 
-ESCAPE_STRING = "\\""n'""\""
+ESCAPE_STRING = "\\n'\""
+
+
+
+
+
