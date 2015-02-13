@@ -3,8 +3,3 @@
 """Task 11"""
 
 ESCAPE_STRING = "\\n'\""
-
-
-
-
-
